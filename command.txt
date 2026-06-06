@@ -1,1 +1,3 @@
 ssh-keygen -t ed25519 -C "you@example.com
+git log --oneline --decorate -n 5 if you want to verify commits
+git branch -D master
